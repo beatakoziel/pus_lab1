@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lab1.dir/main.c.o CMakeFiles/lab1.dir/task1.c.o CMakeFiles/lab1.dir/task3.c.o CMakeFiles/lab1.dir/task4.c.o CMakeFiles/lab1.dir/common.c.o CMakeFiles/lab1.dir/task2.c.o CMakeFiles/lab1.dir/task5.c.o  -o lab1 

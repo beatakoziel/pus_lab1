@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/beatinho/CLionProjects/lab1/common.c
+stdio.h
+-
+
+/home/beatinho/CLionProjects/lab1/common.h
+
+/home/beatinho/CLionProjects/lab1/task2.c
+stdio.h
+-
+common.h
+/home/beatinho/CLionProjects/lab1/common.h
+
+/home/beatinho/CLionProjects/lab1/task3.c
+stdio.h
+-
+stdbool.h
+-
+common.h
+/home/beatinho/CLionProjects/lab1/common.h
+
+/home/beatinho/CLionProjects/lab1/task4.c
+stdio.h
+-
+common.h
+/home/beatinho/CLionProjects/lab1/common.h
+
